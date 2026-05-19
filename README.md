@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Adilson Ganga
+# ⚙️💻 Adilson Ganga
 
 💻 Desenvolvedor apaixonado por tecnologia e software livre  
 🐍 Focado em Python, automação e sistemas Linux  
