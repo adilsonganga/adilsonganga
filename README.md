@@ -1,66 +1,79 @@
-# ⚙️💻 Adilson Ganga
+# Olá, eu sou **SEU NOME** 👋
 
-💻 Desenvolvedor apaixonado por tecnologia e software livre  
-🐍 Focado em Python, automação e sistemas Linux  
-🚀 Atualmente aprendendo: Cybersecurity & Linux Administration  
-🎯 Objetivo: construir soluções úteis e evoluir constantemente  
-🌍 Localização: Angola 🇦🇴  
+Sou desenvolvedor apaixonado por **tecnologia, programação e IoT**, com foco em criar soluções úteis, bem estruturadas e escaláveis.  
+Gosto de transformar ideias em projetos reais, conectando hardware, software e automação de forma prática.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+- 💻 Desenvolvedor focado em **Python, IoT, ESP32, automação e sistemas**
+- 🔧 Construo projetos com **microcontroladores, sensores e integração web**
+- 🌐 Interesse em **backend, sistemas embarcados, Linux e infraestrutura**
+- 📈 Gosto de aprender, testar e documentar tudo com clareza profissional
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🛠️ Tecnologias e Ferramentas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+### Linguagens
+`Python` `JavaScript` `C/C++` `HTML` `CSS`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+### IoT / Embedded
+`ESP32` `Arduino` `ESP8266` `MQTT` `Sensores` `Automação`
 
----
+### Backend / Sistemas
+`Linux` `Nginx` `Docker` `APIs` `Flask` `FastAPI`
 
-## 🌱 Atualmente estudando
-
-- Python Avançado
-- Linux Administration
-- APIs REST
-- Automação com Scripts
-- Ethical Hacking
+### Ferramentas
+`Git` `GitHub` `VS Code` `Postman` `Figma`
 
 ---
 
-## 🐧 Terminal Lover
+## 📌 Áreas de interesse
 
-```bash
-sudo apt update && sudo apt upgrade
-```
-
-> “Linux não é apenas um sistema operacional. É liberdade.”
-
----
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_LINK)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USER)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+- Automação residencial
+- Projetos com ESP32 e Arduino
+- Sistemas web para IoT
+- Integração entre hardware e software
+- Monitoramento e controle remoto
+- Soluções para startups e pequenos negócios
 
 ---
 
-## ⚡ Curiosidade
+## 📂 Projetos em destaque
 
-```bash
-I use Linux btw 🐧
-```
+Aqui você pode colocar alguns dos seus melhores repositórios:
+
+- **Projeto 1** — breve descrição do que faz
+- **Projeto 2** — breve descrição do que faz
+- **Projeto 3** — breve descrição do que faz
+- **Projeto 4** — breve descrição do que faz
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contato
+
+- GitHub: `https://github.com/SEU_USUARIO`
+- LinkedIn: `SEU_LINKEDIN`
+- E-mail: `SEU_EMAIL`
+
+---
+
+## ✨ Objetivo
+
+Construir soluções tecnológicas úteis, aprender continuamente e contribuir com projetos que façam a diferença.
+
+> “Tecnologia não é apenas código. É resolver problemas com clareza, consistência e propósito.”
